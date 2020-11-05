@@ -1,0 +1,7 @@
+"Drivers/Src/stm32f407xxgpio_drivers.o"
+"Drivers/Src/stm32f407xxi2c_drivers.o"
+"Drivers/Src/stm32f407xxrcc_drivers.o"
+"Drivers/Src/stm32f407xxspi_drivers.o"
+"Drivers/Src/stm32f407xxusart_drivers.o"
+"Src/302_USART_TxRx_testing.o"
+"Startup/startup_stm32f407vgtx.o"

@@ -1,0 +1,7 @@
+302_USART_TxRx_testing.c:39:6:USART2_Init	8	static
+302_USART_TxRx_testing.c:51:7:USART2_GPIOInit	24	static
+302_USART_TxRx_testing.c:70:6:GPIO_ButtonInit	32	static
+302_USART_TxRx_testing.c:95:6:delay	16	static
+302_USART_TxRx_testing.c:99:5:main	24	static
+302_USART_TxRx_testing.c:159:6:USART2_IRQHandler	8	static
+302_USART_TxRx_testing.c:164:6:USART_ApplicationEventCallback	16	static
